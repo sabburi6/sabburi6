@@ -17,4 +17,4 @@ I build data-driven solutions using machine learning, statistical modeling, and 
 
 ### 📫 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/sree-padmapriya-abburi/)
+[LinkedIn](https://linkedin.com/in/sree-padmapriya-abburi)
