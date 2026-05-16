@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Sree Padma Priya Abburi  👋
 
-<!--
-**sabburi6/sabburi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MS in Data Science, Analytics & Engineering | Arizona State University'26**
 
-Here are some ideas to get you started:
+I build data-driven solutions using machine learning, statistical modeling, and data engineering. My work spans demand forecasting, dynamic pricing optimization, customer segmentation, and computer vision applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### 🔧 Technical Skills
+
+**Languages:** Python, SQL, Java, C++  
+**ML & Data:** Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, SHAP  
+**Visualization:** Matplotlib, Seaborn, Tableau  
+**Tools:** Git, PostgreSQL, MySQL, Docker, Streamlit, Jupyter Notebook  
+
+<br>
+
+### 📫 Let's Connect
+
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30">](https://www.linkedin.com/in/sree-padmapriya-abburi/)
