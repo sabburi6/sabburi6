@@ -15,6 +15,13 @@ I build data-driven solutions using machine learning, statistical modeling, and 
 
 <br>
 
+### 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Dynamic Pricing for Perishable Inventory](https://github.com/sabburi6/dynamic-pricing-perishable-inventory) | End-to-end ML pipeline for markdown pricing — demand forecasting, spoilage classification, price elasticity & profit optimization | LightGBM, XGBoost, Streamlit |
+
+
 ### 📫 Let's Connect
 
 [LinkedIn](https://linkedin.com/in/sree-padmapriya-abburi)
