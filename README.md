@@ -10,7 +10,7 @@ I build data-driven solutions using machine learning, statistical modeling, and 
 
 **Languages:** Python, SQL, Java, C++  
 **ML & Data:** Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, SHAP  
-**Visualization:** Power BI, Matplotlib, Seaborn, Tableau  
+**Visualization:** Power BI, DAX, Matplotlib, Seaborn, Tableau  
 **Tools:** Git, PostgreSQL, MySQL, Docker, Streamlit, Jupyter Notebook, Google Suite 
 
 <br>
