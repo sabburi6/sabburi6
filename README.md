@@ -20,6 +20,7 @@ I build data-driven solutions using machine learning, statistical modeling, and 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Dynamic Pricing for Perishable Inventory](https://github.com/sabburi6/dynamic-pricing-perishable-inventory) | End-to-end ML pipeline for markdown pricing — demand forecasting, spoilage classification, price elasticity & profit optimization | LightGBM, XGBoost, Streamlit |
+| [RideShare Demand Forecasting](https://github.com/sabburi6/rideshare-demand-forecasting) | Hourly bike rental demand forecasting with ensemble models and SHAP interpretability | XGBoost, Gradient Boosting, SHAP
 
 
 ### 📫 Let's Connect
